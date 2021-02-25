@@ -2,7 +2,7 @@
 
 [[Blog]](https://openai.com/blog/dall-e/) [Paper] [[Model Card]](model_card.md) [[Usage]](notebooks/usage.ipynb)
 
-This is the official PyTorch package for the discrete VAE used for DALL·E.
+This is a fork of the official PyTorch package for the discrete VAE used for DALL·E.
 
 
 # Reconstruction Example
