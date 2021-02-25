@@ -13,7 +13,7 @@ Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab
 # Installation
 
 ```
-	pip install git+https://github.com/openai/DALL-E.git
+pip install git+https://github.com/openai/DALL-E.git
 ```
 
 # Examples
